@@ -1,0 +1,7 @@
+events
+
+*.cmi
+*.cmx
+*.o
+
+*.swp
